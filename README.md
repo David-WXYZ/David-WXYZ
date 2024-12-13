@@ -1,4 +1,4 @@
 # Hi there Edge users! 👋
-## edge > chrome < firefox
+## firefox > edge > chrome
 
 
