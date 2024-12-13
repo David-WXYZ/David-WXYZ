@@ -1,2 +1,2 @@
-## Hi there Edge users! 
-## Hello! ✌️ !!
+## Hi there Edge users! :wave:	
+
