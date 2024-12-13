@@ -1,2 +1,4 @@
-## Hi there Edge users! :wave:	
+# Hi there Edge users! 👋
+## edge > chrome < firefox
+
 
