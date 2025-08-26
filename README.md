@@ -1,4 +1,4 @@
-# Hi there Edge users! 👋
+# Happy early fall! 🍂
 ## firefox > edge > chrome
 
 
